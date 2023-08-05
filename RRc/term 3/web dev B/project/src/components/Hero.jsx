@@ -22,8 +22,11 @@ const Hero = () => {
         </h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I am a Full Stack Web Developer <br className="sm:block hidden" />
-          I{' '}
+          I<br className="sm:hidden" />{' '}
+            <span style={{ display: 'inline-block' }}>
+            </span>
           <TypingAnimation text=" develop websites,develop android applications, creates 3d Videos, do photoshop,do video editing..." />
+
         </p>
       </div>
       </div>
@@ -46,7 +49,7 @@ const Hero = () => {
           </div>
         </a>
       </div>
-
+   <ComputersCanvas />
    </section>
   )
 }
