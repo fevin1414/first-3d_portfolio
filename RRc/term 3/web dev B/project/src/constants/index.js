@@ -169,9 +169,9 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Team AKBDA",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "will do this later",
     tags: [
       {
         name: "react",
@@ -190,9 +190,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Job IT",
+    name: "Movies freak",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Too lazy too type",
     tags: [
       {
         name: "react",
@@ -211,9 +211,9 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Trip Guide",
+    name: "Canadian Agri Tech",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Ongoing",
     tags: [
       {
         name: "nextjs",
