@@ -82,7 +82,7 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
+    name: "php",
     icon: redux,
   },
   {
@@ -90,23 +90,20 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
+    name: "Ruby on Rails",
     icon: nodejs,
   },
   {
-    name: "MongoDB",
+    name: "python",
     icon: mongodb,
   },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
+
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
+    name: "java",
     icon: figma,
   },
   {

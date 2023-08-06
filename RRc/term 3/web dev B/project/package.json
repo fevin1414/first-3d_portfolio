@@ -11,6 +11,7 @@
     "start": "vite --host 127.0.0.1 --port 5575"
   },
   "dependencies": {
+    "@react-three/postprocessing": "^2.15.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.155.0",
