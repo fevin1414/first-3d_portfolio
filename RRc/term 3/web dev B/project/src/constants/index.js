@@ -117,57 +117,50 @@ const technologies = [
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
+    title: "Website and Marketing Manager(wordpress ,freelance)",
+    company_name: "Canadian Agri Tech",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "March 2023 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "	Demonstrated exceptional autonomy by taking complete ownership of website management, ensuring timely updates, content optimization, and overall site maintenance",
+      "Leveraged analytics tools to monitor website performance, track user behavior, and gather insights for continuous improvement and informed decision-making.",
+      "Proficient in WordPress development with experience in customizing themes, creating custom plugins, and optimizing websites for performance and SEO.",
+      "	Deep understanding of WordPress's core functionality and ecosystem, enabling efficient website management and enhancement.",
+      "	Proven track record of successfully implementing website enhancements and optimizations to drive user engagement and improve user experience.",
+      "Knowledgeable in current web design and development best practices, staying up to date with emerging trends and technologies."
+      ,
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
+    title: "Shift Supervisor ",
+    company_name: "Wayback Burger",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "August 2021 - Current",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "	Completed store opening and closing procedures and balanced tills",
+      "	Responded to and resolved customer questions and concerns.",
+      "	Helped store management meet standards of service and quality in daily operations.",
+
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Machine Operator ",
+    company_name: "Amphenol FCI",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April  2020- November  2020",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "	Operated machining equipment safely with team of operators.",
+      "Complied with company and OSHA safety rules and regulations",
+      	"Set up and ran machinery to produce exceptional products for industrial needs.",
+      "	Monitored machines during operation to detect sounds of malfunction or excessive vibration and adjusted machines to eliminate problems.",
+
+
     ],
   },
-  {
-    title: "Full stack Developer",
-    company_name: "Meta",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+
 ];
 
 const testimonials = [
